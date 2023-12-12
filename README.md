@@ -119,6 +119,6 @@ Giving title,subtitle,label and caption to the bar plot .
 ![Rplot25](https://github.com/MoinSabri03/R-for-Viz/assets/152681629/cee3dac8-de8f-4509-9b1f-19771ef08a09)
 
 
-Insights-
+
 
 
